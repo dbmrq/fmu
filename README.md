@@ -19,7 +19,7 @@
 - [Yalom, I. D. *Os desafios da terapia*](bibliografia/yalom-desafios.pdf)
 - [Sexto Empírico. *Hipotiposes Pirrônicas*](bibliografia/sexto-hipotiposes.pdf)
 - [Brentano, F. *Psychology from an Empirical Standpoint*](bibliografia/brentano-psicologia.pdf)
-- [Sartre, J. P. *Uma ideia fundamental da fenomenologia de Husserl: a intencionalidade*](bibliografia/brentano-psicologia.pdf)
+- [Sartre, J. P. *Uma ideia fundamental da fenomenologia de Husserl: a intencionalidade*](bibliografia/sartre-intencionalidade.pdf)
 
 
 
