@@ -1,5 +1,8 @@
+title: Material para aulas
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-relative-links
+  - jekyll-titles-from-headings
 relative_links:
   enabled: true
   collections: true
@@ -11,6 +14,6 @@ include:
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
-theme: jekyll-theme-tactile
-title: Material para aulas
+titles_from_headings:
+  enabled:     true
+  strip_title: true
