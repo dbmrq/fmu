@@ -1,22 +1,25 @@
 
-# Material para as aulas
+# Material de aulas
 
-## Prof. Daniel Ballester Marques
+## Chamada de vídeo
 
-### Chamada de vídeo
 
 [https://bit.ly/fmu-chamada](https://bit.ly/fmu-chamada)
 
-### Cronograma
+
+## Cronograma
+
 
 [2022 - 1](2022-1/cronograma.pdf)
 
-### Textos importantes
 
-- [Sexto Empírico. *Hipotiposes Pirrônicas*](sexto-hipotiposes.pdf)
-- [Brentano, F. *Psychology from an Empirical Standpoint*](brentano-psicologia.pdf)
-- [Sartre, J. P. *Uma ideia fundamental da fenomenologia de Husserl: a intencionalidade*](brentano-psicologia.pdf)
-- [Yalom, I. D. *Os desafios da terapia*](yalom-desafios.pdf)
+## Textos importantes
+
+
+- [Yalom, I. D. *Os desafios da terapia*](bibliografia/yalom-desafios.pdf)
+- [Sexto Empírico. *Hipotiposes Pirrônicas*](bibliografia/sexto-hipotiposes.pdf)
+- [Brentano, F. *Psychology from an Empirical Standpoint*](bibliografia/brentano-psicologia.pdf)
+- [Sartre, J. P. *Uma ideia fundamental da fenomenologia de Husserl: a intencionalidade*](bibliografia/brentano-psicologia.pdf)
 
 
 

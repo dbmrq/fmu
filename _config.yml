@@ -1,4 +1,6 @@
 title: Material para aulas
+description: Prof. Daniel Ballester Marques
+show_downloads: false
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-relative-links
