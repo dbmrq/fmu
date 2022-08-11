@@ -1,10 +1,13 @@
-title: Material para aulas
-description: Prof. Daniel Ballester Marques
+title: Supervisão - Prof. Daniel Marques
+# description: Prof. Daniel Ballester Marques
+author:
+  name: Daniel Ballester Marques
 show_downloads: false
-theme: jekyll-theme-tactile
+remote_theme: jekyll/minima
 plugins:
   - jekyll-relative-links
   - jekyll-titles-from-headings
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
@@ -19,3 +22,7 @@ include:
 titles_from_headings:
   enabled:     true
   strip_title: true
+minima:
+  skin: dark
+header_pages: ['']
+ignore_theme_config: true
