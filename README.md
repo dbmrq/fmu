@@ -1,11 +1,11 @@
 
 # Informações importantes
 
-## Documentos a serem entregues no *início* do semestre
+## Documentos a serem entregues no **início** do semestre
   - **Comprovante de matrícula** - *individual*
   - **TCE** em duas vias - *individual*
 
-## Documentos a serem entregues no *final* do semestre
+## Documentos a serem entregues no **final** do semestre
   - **Relatório final** de atendimentos clínicos, corrigido e assinado - *um por dupla*
   - **Ficha de evolução** preenchida e assinada - *uma por dupla*
     (deve ser preenchida inclusive quando o cliente faltou)
@@ -13,7 +13,7 @@
   - **Crivo de avaliação** preenchido e assinado pelo supervisor e pelo aluno - *individual* 
   - **Ficha de encaminhamento** preenchida e colada na parte externa do prontuário - *uma por dupla*
 
-## Relatório de atendimento (preencher semanalmente)
+## Relatório de atendimento (**preencher semanalmente**)
 
 [https://forms.office.com/r/0xhB2Gsfyq](https://forms.office.com/r/0xhB2Gsfyq)
 
