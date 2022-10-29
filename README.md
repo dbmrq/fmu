@@ -20,13 +20,13 @@
 
 [https://bit.ly/supervisao-docs](https://bit.ly/supervisao-docs)
 
-👇🏻👇🏻👇🏻 *LEIAM* 👇🏻👇🏻👇🏻
+👇🏻👇🏻👇🏻 **LEIAM** 👇🏻👇🏻👇🏻
 
 [Dicas de preenchimento dos documentos e relatórios]({{ site.baseurl }}{% link dicas.md %})
 
-👆🏻👆🏻👆🏻 *LEIAM* 👆🏻👆🏻👆🏻
+👆🏻👆🏻👆🏻 **LEIAM** 👆🏻👆🏻👆🏻
 
-## Datas importantes (*consultar periodicamente*)
+## Datas importantes (**consultar periodicamente**)
 
 [ics (assine o calendário e ative as notificações!)](https://outlook.office365.com/owa/calendar/1afa582876764be59815a8ca5aeb582f@FMU.BR/5e9ff06b9c2a44f084e01080fec5009e15882344615390827203/calendar.ics)
 
