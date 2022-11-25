@@ -1,6 +1,11 @@
 
 # Informações importantes
 
+**A agenda de atendimentos deve ser conferida diariamente**, especialmente nas datas próximas ao preenchimento dos formulários
+  de agendamento.
+Se mais de um agendamento for solicitado, os alunos devem ficar atentos à agenda para as datas de *ambos os agendamentos*.
+A falta dos alunos no horário de qualquer atendimento de um paciênte **é inaceitável** e resultará na **reprovação da dupla**.
+
 ## Documentos a serem entregues no **início** do semestre
   - **Comprovante de matrícula** - entregar no dia da primeira supervisão - *individual*
   - **TCE** em duas vias - entregar na clínica até o dia do primeiro atendimento - *individual*
