@@ -11,7 +11,8 @@ A falta dos alunos no horário de qualquer atendimento de um paciênte **é inac
   - **TCE** em duas vias - entregar na clínica até o dia do primeiro atendimento - *individual*
 
 ## Documentos a serem entregues no **final** do semestre
-  - **Relatório final** de atendimentos clínicos, corrigido e assinado - vocês receberão um link para o envio - *um por dupla*
+  - **Relatório final** de atendimentos clínicos, corrigido e assinado - *um por dupla*
+  - **Relatórios semanais** de atendimentos clínicos, corrigido e assinado - *um por dupla*
   - **Ficha de evolução** preenchida e assinada - *uma por dupla* (deve ser preenchida inclusive quando o paciente faltou)
   - **Relatório geral de atividades** preenchido e assinado pelo supervisor e pelo aluno - *individual*
   - **Crivo de avaliação** preenchido e assinado pelo supervisor e pelo aluno - *individual* 
