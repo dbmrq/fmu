@@ -18,9 +18,11 @@ A falta dos alunos no horário de qualquer atendimento de um paciênte **é inac
   - **Crivo de avaliação** preenchido e assinado pelo supervisor e pelo aluno - *individual* 
   - **Ficha de encaminhamento** preenchida e colada na parte externa do prontuário - *uma por dupla*
 
-## Relatório de atendimento (**preencher semanalmente**)
+Uma versão inicial será enviada pela internet num link a ser definido; nessa versão vocês devem fazer uma autoavaliação em todos
+  os campos de notas!
 
-[https://forms.office.com/r/0xhB2Gsfyq](https://forms.office.com/r/0xhB2Gsfyq)
+A versão física deve ser levada pessoalmente na última supervisão do semestre, e os campos de notas devem estar em branco para que
+  eu preencha e assine!
 
 ## Arquivos, textos, modelos e outros documentos
 
