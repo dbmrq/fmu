@@ -18,7 +18,7 @@ A falta dos alunos no horário de qualquer atendimento de um paciênte **é inac
   - **Crivo de avaliação** preenchido e assinado pelo supervisor e pelo aluno - *individual* 
   - **Ficha de encaminhamento** preenchida e colada na parte externa do prontuário - *uma por dupla*
 
-Uma versão inicial será enviada pela internet num link a ser definido; nessa versão vocês devem fazer uma autoavaliação em todos
+Uma versão inicial dos documentos será enviada pela internet num link a ser definido; nessa versão vocês devem fazer uma autoavaliação em todos
   os campos de notas!
 
 A versão física deve ser levada pessoalmente na última supervisão do semestre, e os campos de notas devem estar em branco para que
@@ -40,3 +40,10 @@ A versão física deve ser levada pessoalmente na última supervisão do semestr
 
 [html: https://bit.ly/supervisao-cal](https://bit.ly/supervisao-cal)
 
+## WhatsApp
+
+### Terça à noite:
+https://chat.whatsapp.com/LwBPIpzisbxBDmW7mSBxMh
+
+### Quinta à noite:
+https://chat.whatsapp.com/GFumhGzYXsS1oeUi91hWM8
