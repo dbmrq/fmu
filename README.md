@@ -43,7 +43,7 @@ A versão física deve ser levada pessoalmente na última supervisão do semestr
 ## WhatsApp
 
 ### Terça à noite:
-https://chat.whatsapp.com/LwBPIpzisbxBDmW7mSBxMh
+[https://chat.whatsapp.com/LwBPIpzisbxBDmW7mSBxMh](https://chat.whatsapp.com/LwBPIpzisbxBDmW7mSBxMh)
 
 ### Quinta à noite:
-https://chat.whatsapp.com/GFumhGzYXsS1oeUi91hWM8
+[https://chat.whatsapp.com/GFumhGzYXsS1oeUi91hWM8](https://chat.whatsapp.com/GFumhGzYXsS1oeUi91hWM8)
