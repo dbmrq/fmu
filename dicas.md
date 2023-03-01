@@ -5,7 +5,7 @@
 
 - Verifiquem se todos os campos exigidos estão preenchidos/assinados! Depois, verifiquem de novo!
 - Preencham a data e todos os outros campos! Todos!
-- Preencham meu CRP em todos os documentos: 06/112882
+- Preencham meu CRP nos documentos que o exigem: 06/112882
 - Verifiquem a formatação dos arquivos e não deixem tudo bagunçado
 - Usem os modelos disponibilizados!
 - Se não tiverem o Word instalado, usem a versão online para evitar problemas
@@ -13,6 +13,17 @@
 - Ativem o corretor gramatical e corrijam os erros óbvios
 - Em todos os campos de nota, façam uma autoavaliação e coloquem uma nota sugerida (inclusive no relatório final)
 - Enviem tudo em PDF!
+
+## Relatório Semanal
+
+Para fazer o relatório, escrevam:
+  1. Os planos para a próxima sessão
+  2. O motivo desse plano, composto por:
+    * Eventos da sessão que corroboram essa atuação
+    * Fundamentação teórica que corrobora essa atuação
+  3. Outros eventos particularmente relevantes, notáveis ou incômodos que ocorreram na sessão
+
+Depois de escrever esses itens, peguem o item 1 e mudem pro final, começando pelo item 2.
 
 ## Relatório Final
 
