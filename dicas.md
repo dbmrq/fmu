@@ -17,11 +17,11 @@
 ## Relatório Semanal
 
 Para fazer o relatório, escrevam:
-  1. O plano para a próxima sessão
-  2. O motivo desse plano, composto por:
+1. O plano para a próxima sessão
+2. O motivo desse plano, composto por:
     * Eventos da sessão que corroboram essa atuação
     * Fundamentação teórica que corrobora essa atuação
-  3. Outros eventos particularmente relevantes, notáveis ou incômodos que ocorreram na sessão
+3. Outros eventos particularmente relevantes, notáveis ou incômodos que ocorreram na sessão
 
 Depois de escrever esses itens, peguem o item 1 e mudem pro final, começando pelo item 2.
 
