@@ -47,3 +47,12 @@ A versão física deve ser levada pessoalmente na última supervisão do semestr
 
 ### Quinta à noite:
 [https://chat.whatsapp.com/GFumhGzYXsS1oeUi91hWM8](https://chat.whatsapp.com/GFumhGzYXsS1oeUi91hWM8)
+
+# Turmas de 2023/1
+
+Link para envio da versão inicial dos relatórios:
+[https://unifmubr-my.sharepoint.com/:f:/g/personal/daniel_marques_fmu_br/EkGP-w3YNMxAtOxwDiXzN34BhGWqdK64qNh2BYhdCZ9jMA](https://unifmubr-my.sharepoint.com/:f:/g/personal/daniel_marques_fmu_br/EkGP-w3YNMxAtOxwDiXzN34BhGWqdK64qNh2BYhdCZ9jMA)
+
+As datas de entrega das versões inicial e final já estão no calendário acima.
+
+Não deixem de checar as dicas de preenchimento (são atualizadas regularmente)!
