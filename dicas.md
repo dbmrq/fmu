@@ -14,6 +14,10 @@
 - Em todos os campos de nota, façam uma autoavaliação e coloquem uma nota sugerida (inclusive no relatório final)
 - Enviem tudo em PDF!
 
+## Relatório de atividades
+
+- Confiram se as horas inseridas batem com o que está em "informações importantes", no documento.
+
 ## Relatório Semanal
 
 Para fazer o relatório, escrevam:
@@ -40,6 +44,10 @@ Depois de escrever esses itens, peguem o item 1 e mudem pro final, começando pe
 - Vocês devem entregar uma versão inicial no meio de junho/novembro e a versão definitiva na última semana do mês. As datas específicas são definidas a cada semestre.
 - Os alunos que não tiverem concluído os atendimentos até a data da versão *inicial* devem fazer o envio *com base nos atendimentos feitos até o momento*. Os alunos que não tiverem concluído até a data da versão *final* devem incluir também os *planos para as sessões futuras* e encerramento.
 
-## Relatório de atividades
+---
 
-- Confiram se as horas inseridas batem com o que está em "informações importantes"
+Este link tem as orientações da Profa. Barbara Niero, que são ainda melhores do que as minhas:
+
+[https://unifmubr-my.sharepoint.com/:b:/g/personal/daniel_marques_fmu_br/EYcbVJIQycpEiY1lSpIuIHsB2STaDV4fpeSojHmpUFL0rg?e=fncaET](https://unifmubr-my.sharepoint.com/:b:/g/personal/daniel_marques_fmu_br/EYcbVJIQycpEiY1lSpIuIHsB2STaDV4fpeSojHmpUFL0rg?e=fncaET)
+
+Levem tudo em consideração!
